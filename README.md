@@ -1,7 +1,6 @@
 -  Hi, I’m @nilamanidhal
 -  I’m interested in problem solving
--  I’m currently learning web devloping
-
+-  I’m currently learning MERN
 
 <!---
 nilamanidhal/nilamanidhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
