@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="github-banner.png" alt="Nilamani Dhal Banner" />
-</p>
 
 # 👋 Hi, I'm Nilamani Dhal  
 
